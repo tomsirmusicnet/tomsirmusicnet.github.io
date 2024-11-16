@@ -1,0 +1,6 @@
+PROCESSED on Sat, 28 Nov 2020 17:49:06 +0000
+/wp-content/plugins/ml-slider/assets/sliders/nivoslider/nivo-slider.css
+/wp-content/plugins/ml-slider/assets/metaslider/public.css
+/wp-content/plugins/ml-slider/assets/sliders/nivoslider/themes/default/default.css
+/wp-content/plugins/shortcodes-ultimate/includes/css/shortcodes.css
+PROCESSED from https://tomsirmusic.ddns.net/
