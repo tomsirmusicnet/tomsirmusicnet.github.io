@@ -1,0 +1,69 @@
+.page-title.arc-page-title {
+  font-size: 2vmax;
+  font-style: italic;
+  border-bottom-width: 2px;
+  border-bottom-color: #000000;
+}
+
+.archive-thumb {
+  position: relative;
+  z-index: 1;
+  width: 40%;
+  left: 12px;
+  top: 43px;
+}
+
+
+
+
+
+
+
+
+
+
+#page.site.hitmag-wrapper {
+    background-color: #fbffad;
+  background-image: url(/wp-content/uploads/2019/01/stock-vector-music-icons-set-1028935672-v2.jpg);
+  background-repeat: repeat;
+  background-position: top left;
+}
+
+#main.site-main {
+  background-color: #faff7f;
+  padding: 15px;
+  padding-top: 25px;
+}
+
+.archive-content {
+  background-color: #ffffff;
+  padding: 12px;
+  padding-top: 40px;
+}
+
+.hitmag-single .entry-title {
+  font-size: 23px;
+}
+
+.hitmag-page .entry-title {
+  font-size: 2vmax;
+  font-style: italic;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.tab-me-wrapper {
+  border-bottom-color: #129490;
+  border-bottom-width: 6px;
+  border-bottom-style: solid;
+}
+
+#secondary.widget-area {
+  background-color: #a8b7fa;
+  padding: 8px;
+  padding-top: 26px;
+}
+
+ul {
+  padding-left: 3px;
+}
